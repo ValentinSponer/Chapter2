@@ -1,3 +1,4 @@
+from numpy.linalg import inv
 
 
 
@@ -36,4 +37,4 @@ print(x//y)
 print(x%y)
 
 #Questions for Brian Hill:
-#about the import statemants, why is import numble not working?
+#about the import statemants, why is import numpy not working?
